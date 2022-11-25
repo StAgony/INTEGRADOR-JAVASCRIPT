@@ -112,3 +112,6 @@ const init = () => {
 }
 
 init();
+
+
+alert('trabajo incompleto, estoy teniendo problemas con mi pc asi que estoy algo retrasado con todo, espero poder entregar algo mejor la proxima semana si se me da la oportunidad')
